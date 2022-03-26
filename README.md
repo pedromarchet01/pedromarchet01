@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning HTML - CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-Instagram:/johnnymadkid/
-Facebook:/hisoka.alighieri
+Instagram:https://www.instagram.com/pedromarchet01/
+Facebook:https://www.facebook.com/hisoka.alighieri
 
 <!---
 pedromarchet01/pedromarchet01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
