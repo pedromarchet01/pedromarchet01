@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML - CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-Instagram:https://www.instagram.com/pedromarchet01/
+Instagram:https://www.instagram.com/pedromarchet02/
 Facebook:https://www.facebook.com/hisoka.alighieri
 
 <!---
